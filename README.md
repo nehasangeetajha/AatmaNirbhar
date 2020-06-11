@@ -14,3 +14,4 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 8   | Basic Math                     |  4 ✅        |
 | 9   | Strings, Various Operations on them                     |  3 ✅        |
 | 10   | String Library Functions & String Hashing                     |  2 ✅        |
+| 11   | Pattern Searching (Naive & KMP)                     |  3       |
