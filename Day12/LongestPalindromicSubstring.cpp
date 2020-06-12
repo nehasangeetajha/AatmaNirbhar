@@ -13,6 +13,7 @@ Input: "cbbd"
 Output: "bb"
 */
 
+//Manacher's Algorithm
 class Solution {
 public:
     string longestPalindrome(string s) {
