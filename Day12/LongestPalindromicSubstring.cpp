@@ -13,6 +13,34 @@ Input: "cbbd"
 Output: "bb"
 */
 
+//Naive
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        int n = s.size();
+        if(n==0)
+            return "";
+        int size=0,left,right,start =-1;
+        for(int i = 0;i<2*n-1;i++)
+        {
+            left = i/2;
+            right = i/2 + i%2;
+            while(left>=0 && right<n&&s[left]==s[right])
+            {
+                if(size<(right-left+1))
+                {
+                    size=(right-left+1);
+                    start = left;
+                }
+                left--;
+                right++;
+            }
+        }
+        return s.substr(start,size);
+    }
+};
+
+
 //Manacher's Algorithm
 class Solution {
 public:
