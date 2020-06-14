@@ -15,6 +15,6 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 9   | Strings, Various Operations on them                     |  3 ✅        |
 | 10   | String Library Functions & String Hashing                     |  2 ✅        |
 | 11   | Pattern Searching (Naive & KMP)                     |  2 ✅      |
-| 11   | Longest Palindromic Substring (Naive & Manacher)                     |  1 ✅      |
-| 12   | Break                    |            |
-| 13   | More Problems + Bonus                   |  7   + 3    |
+| 12   | Longest Palindromic Substring (Naive & Manacher)                     |  1 ✅      |
+| 13   | Break                    |            |
+| 14   | More Problems + Bonus                   |  7   + 3    |
