@@ -19,4 +19,4 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 13   | Break                    |            |
 | 14   | More Problems + Bonus                   |  7 ✅   + 1 ✅    |
 | 15   | Break (Learning)                   |     |
-| 16   | Basic Number Theory                   |  3    |
+| 16   | Basic Number Theory                   |  2 ✅   |
