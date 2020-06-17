@@ -17,4 +17,6 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 11   | Pattern Searching (Naive & KMP)                     |  2 ✅      |
 | 12   | Longest Palindromic Substring (Naive & Manacher)                     |  1 ✅      |
 | 13   | Break                    |            |
-| 14   | More Problems + Bonus                   |  7 ✅   + 3    |
+| 14   | More Problems + Bonus                   |  7 ✅   + 1 ✅    |
+| 15   | Break (Learning)                   |     |
+| 16   | Basic Number Theory                   |  3    |
