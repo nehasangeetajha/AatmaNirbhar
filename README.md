@@ -21,4 +21,8 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 15   | Break (Learning)                   |     |
 | 16   | Basic Number Theory                   |  2 ✅   |
 | 17   | Number Theory & Introduction to Linked Lists                   |  5 ✅   |
-| 18   | Linked Lists                   |  6   |
+| 18   | Linked Lists                   |  6 ✅  |
+| 19   | Break                 |    |
+| 20   | Circular & Double Linked Lists                   |  2 ✅  |
+
+
