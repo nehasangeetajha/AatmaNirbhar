@@ -26,4 +26,5 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 20   | [Circular & Double Linked Lists](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%203/Day20)                   |  2 ✅  |
 | 21  | [LRU Cache](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%203/Day21)                   |  1 ✅  |
 | 22-24  | [Bonus](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%203/Bonus)                   |   6 ✅  |
-| 25  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day25)                   |   3  |
+| 25  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day25)                   |   3 ✅ |
+| 26  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day26)                   |   5 |
