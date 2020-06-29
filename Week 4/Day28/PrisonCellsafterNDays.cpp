@@ -53,7 +53,7 @@ public:
             vector<int>v(n,0);
             for(int j =1;j<n-1;j++)
             {
-                v[j] = (cells[j-1]==cells[j+1])? 1 : 0;
+                v[j] = (cells[j-1]==cells[j+1])? 1 : 0; //comparing with previous day scenario
             }
             cells = v;
         }
