@@ -28,5 +28,5 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 22-24  | [Bonus](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%203/Bonus)                   |   6 ✅  |
 | 25  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day25)                   |   3 ✅ |
 | 26  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day26)                   |   5 ✅ |
-| 27  | Hashset & Hashmap                  |   4 |
-| 28  | Hashset & Hashmap              |   3 |
+| 27  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day27)                  |   4 |
+| 28  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day28)             |   3 ✅ |
