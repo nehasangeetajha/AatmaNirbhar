@@ -32,4 +32,4 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 28  | [Hashset & Hashmap](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%204/Day28)             |   3 ✅ |
 | 29   | Break (Learning)                   |     |
 | 30   | Bitmasking                  |   4  |
-| 31   | Bitmasking                  |   4  |
+| 31   | Bitmasking                  |   7 |
