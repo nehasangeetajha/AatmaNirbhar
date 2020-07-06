@@ -35,4 +35,4 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 31   | [Bitmasking](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day31)                 |   5✅ + 2 |
 | 32   | Break                  |   |
 | 33   | [Stacks](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day33)                  |   3 ✅|
-| 34   | [Stacks](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day34)                 |   5 |
+| 34   | [Stacks](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day34)                 |   5 ✅||
