@@ -37,8 +37,15 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 33   | [Stacks](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day33)                  |   3 ✅|
 | 34   | [Stacks](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%205/Day34)                 |   5 ✅ |
 | 35   | Break                |   |
-| 36   | Combinatorics                |   2 |
-| 37   | Combinatorics                |   3 |
+| 36   | Combinatorics                |    |
+| 37   | Combinatorics                |    |
 | 38   | [Queue](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%206/Day36)             |   4 ✅ |
-| 39   | Queue               |   3 |
+| 39   | [Queue](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%206/Day37)                |   3 ✅ |
+| 40   | Graphs               | 3   |
+| 41   | Tree               | 6   |
+| 42   | Binary Tree               | 4   |
+| 43   | Tree & heaps              |  2 + 3   |
+| 44  | Heaps & Greedy              | 7   |
+| 45   | Tree, Heaps & Greedy            | 3   |
+
 
