@@ -41,7 +41,7 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 37   | Combinatorics                |    |
 | 38   | [Queue](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%206/Day36)             |   4 ✅ |
 | 39   | [Queue](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%206/Day37)                |   3 ✅ |
-| 40   | Graphs               | 3   |
+| 40   | [Graphs](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%207/Day40)               |4 ✅   |
 | 41   | Tree               | 6   |
 | 42   | Binary Tree               | 4   |
 | 43   | Tree & heaps              |  2 + 3   |
