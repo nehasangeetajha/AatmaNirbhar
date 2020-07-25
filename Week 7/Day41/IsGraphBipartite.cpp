@@ -38,3 +38,39 @@ The graph is undirected: if any element j is in graph[i], then i will be in grap
 */
 
 
+class Solution {
+public:
+    vector<bool> vis;
+    vector<int> color;
+public:
+    bool isBipartite(vector<vector<int>>& graph) {
+        int n=graph.size();
+        vis.resize(n,false);
+        color.resize(n,-1);
+        bool ok=true;
+        for(int i=0;i<n;i++){
+            if(!vis[i])
+            {
+                if(!dfs(graph,i)){
+                    ok=false;
+                    break;
+                }
+            }
+        }
+        return ok;    
+    }
+    bool dfs(vector<vector<int>> &adj,int v,int c=0){
+        vis[v]=true;
+        color[v]=c;
+        for(int u:adj[v]){
+            if(!vis[u]){
+                if(!dfs(adj,u,1-c)) return false;
+            }
+            else{
+                if(color[v]==color[u]) return false;
+            }
+        }
+        return true;
+    }
+    
+};
