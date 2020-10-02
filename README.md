@@ -7,7 +7,7 @@ AatmaNirbhar Competitive Coding Challenge By Skillship Foundation
 | 1  | [Arrays & Searching](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day1)                   |  3 ✅      |
 | 2   | [Binary Search, 2D Arrays](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day2)                |  2 ✅     |
 | 3   | [More Problems on Arrays](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day3) |  5 ✅        |
-| 4   | Break                    |            |
+| 4   | Break                    |      0      |
 | 5   | [Binary Search](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day5)                     |  4 ✅        |
 | 6   | [Array Rotating & Other Array Problems](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day6)                     |  3 ✅        |
 | 7   | [Complex Array Problems](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Day7) + [Bonus](https://github.com/nehasangeetajha/AatmaNirbhar/tree/master/Week%201/Bonus)                   |  3 ✅   + 1   ✅    |
